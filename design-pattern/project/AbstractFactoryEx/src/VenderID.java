@@ -1,0 +1,1 @@
+public enum VenderID {LG, HYUNDAI}
